@@ -6,7 +6,7 @@
 
 The notebooks of this repository have been developed to support the 
 **Introduction to Machine Learning with Python** course I designed and delivered for
-![marktechpost.com](https://www.marktechpost.com/).
+[marktechpost.com](https://www.marktechpost.com/).
 
 <hr>
 
