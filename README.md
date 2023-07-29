@@ -5,11 +5,12 @@
 </p>
 
 The notebooks of this repository have been developed to support the 
-**Introduction to Machine Learning with Python** course I designed and delivered for **marktechpost.com**.
+**Introduction to Machine Learning with Python** course I designed and delivered for
+![marktechpost.com](https://www.marktechpost.com/).
 
 <hr>
 
-Data Science Libraries
+### Data Science Libraries
 
 The notebook dl_libraries shows and explains the usage of some Data Science libraries for
 data analysis and data visualization:
@@ -23,11 +24,12 @@ data analysis and data visualization:
 
 <hr>
 
-Machine Learning Pipeline
+### Machine Learning Pipeline
 
 The ml_pipeline notebook shows how to implement a typical machine learning pipeline to detect the age
 of a person based on voice data:
-- Data Exploration: the dataset used is the [Common Voice](https://www.kaggle.com/datasets/mozillaorg/common-voice?select=README.txt) dataset from Kaggle)
+- Data Exploration: the dataset used is the 
+[Common Voice](https://www.kaggle.com/datasets/mozillaorg/common-voice?select=README.txt) dataset from Kaggle
 
 - Data Pre-Processing: data cleaning and transformation
 
